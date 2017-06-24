@@ -1,0 +1,25 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "A React component for dynamically reading and rendering markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "blog",
+    "markdown"
+  ],
+  "author": "David Thompson",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysdexlic/react-blog.git"
+  }
+}
